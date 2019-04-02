@@ -2,9 +2,10 @@
 Project in Advanced Visual Data Analysis spring 2019
 
 
-## Running with Jupyter Notebook
+## Jupyter Notebook
 
-## Running with Django
+## Django
+### Installing
 1. Install Python 3.5 or greater.
 
 2. In folder containing project, create a virtual environment to protect your own configurations by running `python -m venv env`
@@ -17,6 +18,9 @@ Project in Advanced Visual Data Analysis spring 2019
 
 5. Install Django by running `pip install Django`.
 
+### Running 
+To run the server, go to folder `TNM098-project/mysite` and run
+`py manage.py runserver`
 
 
 
