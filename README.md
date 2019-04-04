@@ -1,9 +1,6 @@
 # TNM098-project
 Project in Advanced Visual Data Analysis spring 2019
 
-
-## Jupyter Notebook
-
 ## Django
 ### Installing
 1. Install Python 3.5 or greater.
