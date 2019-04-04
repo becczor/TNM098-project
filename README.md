@@ -4,7 +4,6 @@ Project in Advanced Visual Data Analysis spring 2019
 
 ## Jupyter Notebook
 
-## Django
 ### Installing
 1. Install Python 3.5 or greater.
 
@@ -12,15 +11,14 @@ Project in Advanced Visual Data Analysis spring 2019
 
 3. To activate the virtual environment, run `env\Scripts\activate` for Windows, and `source env/bin/activate` for Linux.
 
-  1. (To disable the virtual environment when you are finished, run `deactivate`)
+   1. (To disable the virtual environment when you are finished, run `deactivate`)
 
 4. Run `python -m pip install --upgrade pip` to update pip to newest version.
 
-5. Install Django by running `pip install Django`.
+5. Install jupyter.
 
 ### Running 
-To run the server, go to folder `TNM098-project/mysite` and run
-`py manage.py runserver`
+Run `jupyter notebook project.ipynb`. The notebook will open automatically in your web browser.
 
 
 
