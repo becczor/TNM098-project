@@ -6,9 +6,9 @@ Project in Advanced Visual Data Analysis spring 2019
 ### Installing
 1. Install Python 3.5 or greater.
 
-2. In folder containing project, create a virtual environment to protect your own configurations by running `python -m venv env`
+2. In the folder containing this project, create a virtual environment to protect your own configurations by running `python -m venv env`
 
-3. To activate the virtual environment, run `env\Scripts\activate` for Windows, and `source env/bin/activate` for Linux.
+3. Activate the virtual environment by running `env\Scripts\activate` for Windows, and `source env/bin/activate` for Linux.
 
     1. (To disable the virtual environment when you are finished, run `deactivate`)
 
@@ -19,6 +19,12 @@ Project in Advanced Visual Data Analysis spring 2019
 6. Run `pip install python-nvd3` to install the Python shell from nvd3.
 
 7. Run `pip install ipywidgets` and `jupyter nbextension enable --py widgetsnbextension` to activate the widgets.
+
+8. Run `pip install plotly` to install Plotly for graph plots.
+
+9. Run `pip install networkx` to install Networkx.
+
+10. Run `pip install matplotlib` to intstall Matplotlib.
 
 ### Running 
 Run `jupyter notebook project.ipynb`. The notebook will open automatically in your web browser.
